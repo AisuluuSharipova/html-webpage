@@ -1,0 +1,26 @@
+.main {
+	border: 2.5px solid rgb(8, 8, 8);
+	width: 600px;
+	margin: 40px auto;
+	padding: 40px 40px;
+	background-color: aliceblue;
+}
+h1 {
+	font-style: oblique;
+	color: rgb(10, 9, 10);
+}
+img {
+	display: block;
+	margin: auto;
+	width: 300px;
+	border-radius: 50%;
+}
+body {
+	background-color: rgb(245, 242, 248);
+}
+p{
+	font-style: oblique;
+}
+ul{
+	font-style: italic;
+}
