@@ -20,3 +20,7 @@ To view my portfolio open the (https://aisuluusharipova.github.io/html-webpage/)
 
 ## Usage 
 Feel free to browse through my projects and learn more about my skills and experience. You can also contact me through the provided contact form.
+
+## Contributing 
+I am currently accepting contributions to this project. If you have any suggestions or feedback, feel free to reach out to me.
+
