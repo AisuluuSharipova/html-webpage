@@ -1,6 +1,5 @@
 # Personal Portfolio
-
-## Welcome to my first html-webpage! 
+Welcome to my first html-webpage! 
 
 ## Table of Contents 
 - **About Me**
